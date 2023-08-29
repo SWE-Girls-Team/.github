@@ -36,9 +36,5 @@ We would love to discuss your project requirements and explore how we can help y
 - **🌐 Website:** [www.devssinia.com](https://www.devssinia.com)
 - **Email us at:** [info@devssinia.com](mailto:info@devssinia.com?subject=Hello%20from%20your%20website!), [Mr. Mikias](mailto:mikikebe84@gmail.com?subject=Hello%20from%20your%20website!), [Mr. Samuel](mailto:lijsamuael@gmail.com?subject=Hello%20from%20your%20website!)
 - **Phone:** +251 98 485 0810 / +251 92 164 4607
-
-<div align="center">
-  <img src="<team_photo_url>" alt="Devssinia Software Team" width="600">
-</div>
-
-We look forward to collaborating with you and bringing your ideas to life! 🎉
+<h3> 🚀We look forward to collaborating with you and bringing your ideas to life! 🎉
+</h3>
