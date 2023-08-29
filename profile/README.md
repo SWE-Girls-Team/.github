@@ -40,9 +40,9 @@ We would love to discuss your project requirements and explore how we can help y
 </h3>
 <h2 align="center">Let's Connect</h2>
 <p align="center">
-<a href="https://linkedin.com/in/https://www.linkedin.com/company/devssinia" target="blank"><img align="center" src="src/linkedin.svg" alt="https://www.linkedin.com/company/devssinia" height="30" width="40" /></a>
-<a href="https://fb.com/https://facebook.com/devssinia" target="blank"><img align="center" src="src/facebook.svg" alt="https://facebook.com/devssinia" height="30" width="40" /></a>
-<a href="https://instagram.com/https://instagram.com/devssinia?utm_source=qr&igshid=ngexmmi2ytkyzg%3d%3d" target="blank"><img align="center" src="src/instagram.svg" alt="https://instagram.com/devssinia?utm_source=qr&igshid=ngexmmi2ytkyzg%3d%3d" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/company/devssinia" target="blank"><img align="center" src="src/linkedin.svg" alt="https://www.linkedin.com/company/devssinia" height="30" width="40" /></a>
+<a href="https://facebook.com/devssinia" target="blank"><img align="center" src="src/facebook.svg" alt="https://facebook.com/devssinia" height="30" width="40" /></a>
+<a href="https://instagram.com/devssinia?utm_source=qr&igshid=ngexmmi2ytkyzg%3d%3d" target="blank"><img align="center" src="src/instagram.svg" alt="https://instagram.com/devssinia?utm_source=qr&igshid=ngexmmi2ytkyzg%3d%3d" height="30" width="40" /></a>
 <a href="https://t.me/devssinia" target="blank"><img align="center" src="src/telegram.svg" alt="https://t.me/devssinia" height="30" width="40" /></a>
 </p>
 
