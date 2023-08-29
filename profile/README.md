@@ -38,3 +38,13 @@ We would love to discuss your project requirements and explore how we can help y
 - **📞Phone:** +251 98 485 0810 / +251 92 164 4607
 <h3 align ="center"> 🚀We look forward to collaborating with you and bringing your ideas to life! 🎉
 </h3>
+
+<h3 align="center">Let's Connect!</h3>
+<p align="center">
+  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/devssinia)&nbsp;
+  [![Instagram](https://img.shields.io/badge/reskimulud-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/devssinia?utm_source=qr&igshid=NGExMmI2YTkyZg%3D%3D)&nbsp;
+  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/Devssinia)&nbsp;
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reski.mulud@gmail.com)&nbsp;
+  [![Telegram](https://img.shields.io/badge/Telegram-%230088FF.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/devssinia)&nbsp;
+</p>
+</p>
