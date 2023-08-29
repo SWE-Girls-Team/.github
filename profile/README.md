@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="<image_url>" alt="Devssinia Software" width="200">
+  <img src="src/Screenshot_20230828-162634_Instagram.jpg" alt="Devssinia Software" width="200">
   <h1>Welcome to Devssinia Software! 🌟</h1>
 </div>
 
