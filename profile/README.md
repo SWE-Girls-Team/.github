@@ -34,7 +34,7 @@ We are a full team of UI/UX designers, front-end developers, mobile application 
 We would love to discuss your project requirements and explore how we can help you achieve your goals. Contact us today to schedule a consultation and let's embark on a journey of digital transformation together.
 
 - **🌐 Website:** [www.devssinia.com](https://www.devssinia.com)
-- **Email us at:** [info@devssinia.com](mailto:info@devssinia.com?subject=Hello%20from%20your%20website!), [Mr. Mikias](mailto:mikikebe84@gmail.com?subject=Hello%20from%20your%20website!), [Mr. Samuel](mailto:lijsamuael@gmail.com?subject=Hello%20from%20your%20website!)
-- **Phone:** +251 98 485 0810 / +251 92 164 4607
+- **✉️ Email Us:** [info@devssinia.com](mailto:info@devssinia.com?subject=Hello%20from%20your%20website!), [Mr. Mikias](mailto:mikikebe84@gmail.com?subject=Hello%20from%20your%20website!), [Mr. Samuel](mailto:lijsamuael@gmail.com?subject=Hello%20from%20your%20website!)
+- **📞Phone:** +251 98 485 0810 / +251 92 164 4607
 <h3> 🚀We look forward to collaborating with you and bringing your ideas to life! 🎉
 </h3>
