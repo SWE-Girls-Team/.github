@@ -1,10 +1,10 @@
 <div align="center">
   <img src="<image_url>" alt="Devssinia Software" width="200">
-  <h1>Welcome to Devssinia Software! 🌟</h1>
+  <h1 style="color: #ff8a00; font-size: 36px;">Welcome to Devssinia Software! 🌟</h1>
 </div>
 
 <p align="center">
-  <strong>We are a leading software development company located in Addis Ababa, Ethiopia. Our mission is to build exceptional websites, mobile applications, and software products that empower businesses and individuals. With a team of talented developers and a commitment to excellence, we strive to deliver cutting-edge solutions tailored to our clients' unique requirements.</strong>
+  <strong style="font-size: 18px;">We are a leading software development company located in Addis Ababa, Ethiopia. Our mission is to build exceptional websites, mobile applications, and software products that empower businesses and individuals. With a team of talented developers and a commitment to excellence, we strive to deliver cutting-edge solutions tailored to our clients' unique requirements.</strong>
 </p>
 
 ## 💼 Our Services
