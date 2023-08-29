@@ -1,6 +1,6 @@
 <div align="center">
   <img src="<image_url>" alt="Devssinia Software" width="200">
-  <h1 style="color: #ff8a00; font-size: 36px;">Welcome to Devssinia Software! 🌟</h1>
+  <h1 style="color: #e54612; font-size: 36px;">Welcome to Devssinia Software! 🌟</h1>
 </div>
 
 <p align="center">
